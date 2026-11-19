@@ -89,3 +89,14 @@ flowchart TD
 - 使用者提供的 PDF 版權頁標示 **©2026 Rice University，CC BY-NC-SA 4.0**（署名－非商業－相同方式分享）。本專案僅用於非商業教育用途；公開分享時保留作者／出版單位、教材連結與原始頁面上 **“Access for free at openstax.org”** 的來源標示。
 - 以上 PDF 不是本專案自行撰寫；原書內的部分圖片另有個別標示，不應自行假定圖片全部都可自由商用。
 - 本 Wiki 新增的整理內容如構成教材改作，公開分享時應遵守相同授權條款並清楚標示改作。
+
+
+## 步驟二：教學型 HTML 簡報
+
+已根據本專案 `wiki/papers/` 七篇來源筆記與 `wiki/concepts/` 建立 **13 頁心理學入門 HTML 簡報**。
+
+- 開啟 [`slides_html/index.html`](slides_html/index.html) 可在瀏覽器直接瀏覽。
+- 支援上一頁／下一頁、方向鍵、首頁／末頁、進度顯示及列印。
+- 每頁均附上 Wiki 來源筆記與原始教材連結。
+- 投影片與 Wiki 來源對照：[`reports/slide-source-map.md`](reports/slide-source-map.md)。
+- 此階段為簡報產製；完整 Loop / Graph 反思將在作業後續步驟另行記錄。

@@ -1,0 +1,90 @@
+# 步驟一｜本地 Lint 實際檢查紀錄
+
+檢查日期：2026-11-19（專案建立時）。本紀錄由本地檔案讀取／文字檢查腳本產生；**不是** GPT 自動語意審查已通過的證明。
+
+- **PASS**：S01 PDF可讀取、目標標題存在（2 頁；標題 '1.1 What Is Psychology?'）
+- **PASS**：S01 筆記引用來源（wiki/papers/source01.md）
+- **PASS**：S02 PDF可讀取、目標標題存在（5 頁；標題 '7.1 What Is Cognition?'）
+- **PASS**：S02 筆記引用來源（wiki/papers/source02.md）
+- **PASS**：S03 PDF可讀取、目標標題存在（8 頁；標題 '8.1 How Memory Functions'）
+- **PASS**：S03 筆記引用來源（wiki/papers/source03.md）
+- **PASS**：S04 PDF可讀取、目標標題存在（10 頁；標題 '6.2 Classical Conditioning'）
+- **PASS**：S04 筆記引用來源（wiki/papers/source04.md）
+- **PASS**：S05 PDF可讀取、目標標題存在（12 頁；標題 '6.3 Operant Conditioning'）
+- **PASS**：S05 筆記引用來源（wiki/papers/source05.md）
+- **PASS**：S06 PDF可讀取、目標標題存在（13 頁；標題 '10.4 Emotion'）
+- **PASS**：S06 筆記引用來源（wiki/papers/source06.md）
+- **PASS**：S07 PDF可讀取、目標標題存在（8 頁；標題 '12.4 Conformity, Compliance, and Obedience'）
+- **PASS**：S07 筆記引用來源（wiki/papers/source07.md）
+- **PASS**：連結：wiki/concepts/asch-milgram.md → ../papers/source07.md
+- **PASS**：連結：wiki/concepts/classical-conditioning.md → ../papers/source04.md
+- **PASS**：連結：wiki/concepts/cognition.md → ../papers/source02.md
+- **PASS**：連結：wiki/concepts/conditioning-comparison.md → ../papers/source04.md
+- **PASS**：連結：wiki/concepts/conditioning-comparison.md → ../papers/source05.md
+- **PASS**：連結：wiki/concepts/emotion-regulation.md → ../papers/source06.md
+- **PASS**：連結：wiki/concepts/emotion-theories.md → ../papers/source06.md
+- **PASS**：連結：wiki/concepts/memory-types.md → ../papers/source03.md
+- **PASS**：連結：wiki/concepts/memory.md → ../papers/source03.md
+- **PASS**：連結：wiki/concepts/operant-conditioning.md → ../papers/source05.md
+- **PASS**：連結：wiki/concepts/psychology.md → ../papers/source01.md
+- **PASS**：連結：wiki/concepts/schemas.md → ../papers/source02.md
+- **PASS**：連結：wiki/concepts/scientific-method.md → ../papers/source01.md
+- **PASS**：連結：wiki/concepts/social-influence.md → ../papers/source07.md
+- **PASS**：連結：wiki/entities/researchers.md → ../papers/source04.md
+- **PASS**：連結：wiki/entities/researchers.md → ../papers/source05.md
+- **PASS**：連結：wiki/entities/researchers.md → ../papers/source05.md
+- **PASS**：連結：wiki/entities/researchers.md → ../papers/source07.md
+- **PASS**：連結：wiki/entities/researchers.md → ../papers/source07.md
+- **PASS**：連結：wiki/index.md → papers/source01.md
+- **PASS**：連結：wiki/index.md → papers/source02.md
+- **PASS**：連結：wiki/index.md → papers/source03.md
+- **PASS**：連結：wiki/index.md → papers/source04.md
+- **PASS**：連結：wiki/index.md → papers/source05.md
+- **PASS**：連結：wiki/index.md → papers/source06.md
+- **PASS**：連結：wiki/index.md → papers/source07.md
+- **PASS**：連結：wiki/index.md → concepts/psychology.md
+- **PASS**：連結：wiki/index.md → concepts/scientific-method.md
+- **PASS**：連結：wiki/index.md → concepts/cognition.md
+- **PASS**：連結：wiki/index.md → concepts/schemas.md
+- **PASS**：連結：wiki/index.md → concepts/memory.md
+- **PASS**：連結：wiki/index.md → concepts/memory-types.md
+- **PASS**：連結：wiki/index.md → concepts/classical-conditioning.md
+- **PASS**：連結：wiki/index.md → concepts/operant-conditioning.md
+- **PASS**：連結：wiki/index.md → concepts/conditioning-comparison.md
+- **PASS**：連結：wiki/index.md → concepts/emotion-theories.md
+- **PASS**：連結：wiki/index.md → concepts/emotion-regulation.md
+- **PASS**：連結：wiki/index.md → concepts/social-influence.md
+- **PASS**：連結：wiki/index.md → concepts/asch-milgram.md
+- **PASS**：連結：wiki/index.md → entities/researchers.md
+- **PASS**：連結：wiki/index.md → syntheses/learning_and_memory.md
+- **PASS**：連結：wiki/papers/source01.md → ../../raw/source01_what_is_psychology.pdf
+- **PASS**：連結：wiki/papers/source01.md → ../concepts/psychology.md
+- **PASS**：連結：wiki/papers/source01.md → ../concepts/scientific-method.md
+- **PASS**：連結：wiki/papers/source02.md → ../../raw/source02_what_is_cognition.pdf
+- **PASS**：連結：wiki/papers/source02.md → ../concepts/cognition.md
+- **PASS**：連結：wiki/papers/source02.md → ../concepts/schemas.md
+- **PASS**：連結：wiki/papers/source03.md → ../../raw/source03_how_memory_functions.pdf
+- **PASS**：連結：wiki/papers/source03.md → ../concepts/memory.md
+- **PASS**：連結：wiki/papers/source03.md → ../concepts/memory-types.md
+- **PASS**：連結：wiki/papers/source04.md → ../../raw/source04_classical_conditioning.pdf
+- **PASS**：連結：wiki/papers/source04.md → ../concepts/classical-conditioning.md
+- **PASS**：連結：wiki/papers/source04.md → ../concepts/conditioning-comparison.md
+- **PASS**：連結：wiki/papers/source05.md → ../../raw/source05_operant_conditioning.pdf
+- **PASS**：連結：wiki/papers/source05.md → ../concepts/operant-conditioning.md
+- **PASS**：連結：wiki/papers/source05.md → ../concepts/conditioning-comparison.md
+- **PASS**：連結：wiki/papers/source06.md → ../../raw/source06_emotion.pdf
+- **PASS**：連結：wiki/papers/source06.md → ../concepts/emotion-theories.md
+- **PASS**：連結：wiki/papers/source06.md → ../concepts/emotion-regulation.md
+- **PASS**：連結：wiki/papers/source07.md → ../../raw/source07_conformity_compliance_obedience.pdf
+- **PASS**：連結：wiki/papers/source07.md → ../concepts/social-influence.md
+- **PASS**：連結：wiki/papers/source07.md → ../concepts/asch-milgram.md
+- **PASS**：連結：wiki/syntheses/learning_and_memory.md → ../concepts/classical-conditioning.md
+- **PASS**：連結：wiki/syntheses/learning_and_memory.md → ../concepts/operant-conditioning.md
+- **PASS**：連結：wiki/syntheses/learning_and_memory.md → ../concepts/memory.md
+
+## 結果
+- PASS：79
+- FAIL：0
+- 總檢查：79
+- 範圍：PDF 可讀性、目標標題存在、筆記追溯資訊、Markdown 相對連結。
+- 限制：不包含線上網址可連通、詳細語意逐句比對、圖片授權逐張審核或 HTML 測試。

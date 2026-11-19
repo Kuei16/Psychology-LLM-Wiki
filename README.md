@@ -95,7 +95,7 @@ flowchart TD
 
 已根據本專案 `wiki/papers/` 七篇來源筆記與 `wiki/concepts/` 建立 **13 頁心理學入門 HTML 簡報**。
 
-- 開啟 [`slides_html/index.html`](slides_html/index.html) 可在瀏覽器直接瀏覽。
+- 開啟 [`slides_html/index.html`](slides_html/index.html) 
 - 支援上一頁／下一頁、方向鍵、首頁／末頁、進度顯示及列印。
 - 每頁均附上 Wiki 來源筆記與原始教材連結。
 - 投影片與 Wiki 來源對照：[`reports/slide-source-map.md`](reports/slide-source-map.md)。
